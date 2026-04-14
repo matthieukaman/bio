@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Matthieu Kaman
-
 Development economist and mixed-methods researcher specializing in causal inference, program evaluation, and cost-effectiveness analysis applied to vulnerable populations.
 
 Currently Senior Data Analyst at Homebase and completing MS in International and Development Economics at University of San Francisco.
