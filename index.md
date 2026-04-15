@@ -14,11 +14,8 @@ matthieukaman@berkeley.edu
 
 ---
 
-<div style="display: flex; align-items: center; gap: 30px; margin-bottom: 30px;">
-  <img src="/NHSDC_Portrait.jpg" alt="Matthieu Kaman" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
-  <div>
-    <h1>Matthieu Kaman</h1>
-    <p>Development Economist & Applied Researcher</p>
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <img src="/NHSDC_Portrait.jpg" alt="Matthieu Kaman" style="width: 150px; height: auto; border-radius: 50%; object-fit: cover; flex-shrink: 0; min-width: 150px;">
   </div>
 </div>
 
