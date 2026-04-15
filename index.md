@@ -15,7 +15,7 @@ matthieukaman@berkeley.edu
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <img src="matthieukaman.github.io/bio/NHSDC_Portrait.jpg" alt="Matthieu Kaman" style="width: 150px; height: auto; border-radius: 50%; object-fit: cover; flex-shrink: 0; min-width: 150px;">
+  <img src="{{ site.baseurl }}/NHSDC_Portrait.jpg" alt="Matthieu Kaman" style="width: 150px; height: auto; border-radius: 50%; object-fit: cover; flex-shrink: 0; min-width: 150px;">
   </div>
 </div>
 
